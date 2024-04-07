@@ -1,0 +1,13 @@
+.nav{
+    background-color:#4b4338;
+    
+    height: 70px;
+  
+}
+ul>li{  
+    float: right;
+    margin-top: 5px;
+    padding: 15px;
+    display: inline-block;
+    margin-right: 10px;
+}
